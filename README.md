@@ -65,5 +65,5 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/c0d71c8e-160f-4af3-8eff-3ca43c547283" />
 
-**RESULTS**
+## RESULTS:
 Thus the RTL and Waveform of T-FLIPFLOP has been verified and implemented
